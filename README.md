@@ -9,10 +9,12 @@
 - **User-Friendly Interface**: Provides an intuitive interface for users to input text and retrieve generated quizzes.
 
 ## Screenshots
-![ss1](https://github.com/user-attachments/assets/7d93db68-0bdf-44e2-abb9-6811a578f311)
-![ss2](https://github.com/user-attachments/assets/bfc1a0ac-6961-47b7-980f-8ca4f4d6eef8)
-![ss3](https://github.com/user-attachments/assets/2d297da9-c444-4ff1-b5a4-761f098aac11)
-![ss4](https://github.com/user-attachments/assets/b9619993-5eec-4548-b7b9-4597ead0e63b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7d93db68-0bdf-44e2-abb9-6811a578f311" width="45%" alt="Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/bfc1a0ac-6961-47b7-980f-8ca4f4d6eef8" width="45%" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/2d297da9-c444-4ff1-b5a4-761f098aac11" width="45%" alt="Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/b9619993-5eec-4548-b7b9-4597ead0e63b" width="45%" alt="Screenshot 4">
+</div>
 
 
 ## Installation
